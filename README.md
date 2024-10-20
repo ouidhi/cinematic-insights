@@ -17,21 +17,21 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 7. Results and Conclusion
 8. Data Sources
 #
-### 1. Questions to answer
+### Questions to answer
 
 - Which country has the most film companies? <br>
 - What is the trend of company establishment over the years? <br>
 - Where are most film companies headquartered? <br>
 - What is the average lifespan of these companies? <br>
 # 
-2. ###Key Skills and Tools Used
+### Key Skills and Tools Used
    
    Programming Languages: Python <br>
    Skills: Web scraping, data preparation, visualization and analysis. <br>
    Libraries: Pandas, BeautifulSoup, Matplotlib and Seaborn. <br>
    Data Visualization: Histograms, count plots and bar charts. <br>
 #
-3. **Scraping data from wikipedia**
+### Scraping data from wikipedia**
 
    [Uploading scrap.ipynb…]()
 
@@ -48,7 +48,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
    **Output:** The final dataset is saved as a csv file, providing a structured       view of the scraped information.
 
 #
-4. **Understanding the data**
+### Understanding the data**
 
    This table provides a list of film production companies, detailing key            information such as the company name, country of origin, headquarters             location, year of establishment, and any relevant notes. 
 
@@ -58,7 +58,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
    **Est.**: The year the company was founded. The data is collected for             companies established between 1893 and 2019. <br>
    **Notes**: Any additional relevant information about the company (e.g., a         focus on specific genres like Christian films).
 #
-5. **Data preparation and Exploration**
+### Data preparation and Exploration**
 
    [Uploading ExploratoryAnalysis.ipynb…]()
 
@@ -82,7 +82,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 
    **Visualization:** Creating graphs provides a foundational understanding of       the dataset, highlighting key trends, patterns, and insights.
 #
-6. **Results and Conclusion**
+### Results and Conclusion**
 
 ### Which country has the most film production companies?
 From the analysis, the United States leads with the highest number of film production companies, followed by India and China. On the opposite end, countries like Greece, Indonesia, and Ukraine have the fewest production companies.
