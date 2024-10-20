@@ -17,14 +17,14 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 7. Results and Conclusion
 8. Data Sources
 #
-1. **Questions to answer**
+1. ###Questions to answer
 
 - Which country has the most film companies? <br>
 - What is the trend of company establishment over the years? <br>
 - Where are most film companies headquartered? <br>
 - What is the average lifespan of these companies? <br>
 # 
-2. **Key Skills and Tools Used**
+2. ###Key Skills and Tools Used
    
    Programming Languages: Python <br>
    Skills: Web scraping, data preparation, visualization and analysis. <br>
