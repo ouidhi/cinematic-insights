@@ -33,7 +33,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 #
 ### Scraping data from wikipedia
 
-   scrap.ipynb
+   [scrap.ipynb](https://github.com/ouidhi/cinematic-insights/blob/e20cf1fd456a1b9c0428bc1ec6676c4cd3694ae4/scrap.ipynb)
 
    This Jupyter Notebook demonstrates the process of scraping data from Wikipedia    using the Beautiful Soup library in Python. The notebook covers the following     key steps: <br>
 
