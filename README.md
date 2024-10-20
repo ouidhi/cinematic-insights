@@ -25,6 +25,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 - What is the average lifespan of these companies? <br>
 # 
 2. **Key Skills and Tools Used**
+   
 Programming Languages: Python
 Skills: Web scraping, data preparation, visualization and analysis.
 Libraries: Pandas, BeautifulSoup, Matplotlib and Seaborn.
@@ -42,18 +43,45 @@ This Jupyter Notebook demonstrates the process of scraping data from Wikipedia u
 
 **Data Extraction:** Specific elements, such as tables or lists of movie production companies, are identified and extracted from the parsed HTML. <br>
 
-**Data Cleaning:** The extracted data is cleaned and formatted to prepare it for analysis. <br>
-
-**Output:** The final dataset is displayed, providing a structured view of the scraped information.
+**Output:** The final dataset is saved as a csv file, providing a structured view of the scraped information.
 
 The notebook: [Uploading scrap.ipynb…]()
 #
+4. **Understanding the data**
 
+This table provides a list of film production companies, detailing key information such as the company name, country of origin, headquarters location, year of establishment, and any relevant notes. 
 
-4. **Data preparation and cleaning**
+**Company**: The name of the film production company. <br>
+**Country**: The country where the company is based. <br>
+**Headquarters**: The specific city or region where the company is headquartered. <br>
+**Est.**: The year the company was founded. <br>
+**Notes**: Any additional relevant information about the company (e.g., a focus on specific genres like Christian films).
 #
-5. **Understanding the data**
-#
-6. **Data Explorations**
+5. **Data preparation and Exploration**
 
-7. **Results and Conclusion**
+[Uploading ExploratoryAnalysis.ipynb…]()
+
+This section focuses on cleaning and preparing the scraped data for analysis. The key steps include:
+
+**Handling Missing Values:** Missing or incomplete data points are identified and managed by either filling or removing them based on the context.
+
+**Data Type Conversion:** Columns are converted to appropriate data types (e.g., strings, integers, or dates) to ensure consistency.
+
+**Creating New Features:** New columns are created by extracting relevant information (e.g., calculating the age of companies based on establishment date).
+
+This preparation ensures the data is clean, structured, and ready for in-depth analysis and visualizations.
+
+**Exploratory Data Analysis (EDA)**
+
+This section dives into the initial exploration of the cleaned dataset to understand its structure and key characteristics. Key aspects covered include:
+
+**Data Summary:** Overview of the dataset, including the shape, column names, and basic statistical summaries.
+
+**Distribution Analysis:** Examining the distribution of key variables such as company establishment years, headquarters locations, and the number of companies per country.
+
+**Visualization:** Creating graphs provides a foundational understanding of the dataset, highlighting key trends, patterns, and insights.
+#
+6. **Results and Conclusion**
+
+
+
