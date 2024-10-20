@@ -26,10 +26,10 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 # 
 2. **Key Skills and Tools Used**
    
-Programming Languages: Python
-Skills: Web scraping, data preparation, visualization and analysis.
-Libraries: Pandas, BeautifulSoup, Matplotlib and Seaborn.
-Data Visualization: Histograms, count plots and bar charts.
+Programming Languages: Python <br>
+Skills: Web scraping, data preparation, visualization and analysis. <br>
+Libraries: Pandas, BeautifulSoup, Matplotlib and Seaborn. <br>
+Data Visualization: Histograms, count plots and bar charts. <br>
 #
 3. **Scraping data from wikipedia**
    
