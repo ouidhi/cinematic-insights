@@ -16,7 +16,6 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 6. Data Explorations
 7. Results and Conclusion
 8. Data Sources
-
 #
 
 **1. Questions to answer**
