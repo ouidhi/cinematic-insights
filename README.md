@@ -62,7 +62,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 #
 ### Data preparation and Exploration
 
-   ExploratoryAnalysis.ipynb
+   [ExploratoryAnalysis.ipynb](https://github.com/ouidhi/cinematic-insights/blob/38e3a5224d371470e297783f0ac72ad87afea6be/ExploratoryAnalysis.ipynb) 
 
    This section focuses on cleaning and preparing the scraped data for analysis.    The key steps include:
 
