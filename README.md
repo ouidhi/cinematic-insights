@@ -53,7 +53,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 
    **Output:** The final dataset is saved as a csv file, providing a structured       view of the scraped information. 
 
-  https://github.com/ouidhi/cinematic-insights/blob/3d9818fa257e3b2efeb8045fa2af88592d284cd7/Productions.csv
+  [Productions.csv](https://github.com/ouidhi/cinematic-insights/blob/3d9818fa257e3b2efeb8045fa2af88592d284cd7/Productions.csv)
 
 #
 ### Understanding the data
@@ -70,7 +70,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 #
 ### Data preparation and Exploration
 
-   [ExploratoryAnalysis.ipynb](https://github.com/ouidhi/cinematic-insights/blob/38e3a5224d371470e297783f0ac72ad87afea6be/ExploratoryAnalysis.ipynb) 
+[ExploratoryAnalysis.ipynb](https://github.com/ouidhi/cinematic-insights/blob/3f2fe8a7886a0e4303962db8682379ed6e7f23f1/ExploratoryAnalysis.ipynb)
 
    This section focuses on cleaning and preparing the scraped data for analysis. The key steps include:
 
