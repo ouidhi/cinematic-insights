@@ -30,6 +30,7 @@ Conducted an exploratory data analysis on a dataset of global movie production c
    **Skills:** Web scraping, data preparation, visualization and analysis. <br>
    **Libraries:** Pandas, BeautifulSoup, Matplotlib and Seaborn. <br>
    **Data Visualization:** Histograms, count plots and bar charts. <br>
+   **Other tools used:** Visual Studio Code, GitHub
 #
 ### Scraping data from wikipedia
 
