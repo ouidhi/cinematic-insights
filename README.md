@@ -118,7 +118,7 @@ The average lifespan of film production companies is approximately 49.75 years. 
 
 In contrast, the newest companies, such as Apple Studios, Sight & Sound Films, and Called Higher Studios, are all based in the United States, with many of these companies being around 5 years old. 
 
-![newest](https://github.com/user-attachments/assets/db042dd8-2b24-4ed6-bb95-31442cf19a10)
+![newest](https://github.com/user-attachments/assets/ad2c38ef-3ae5-42a0-a790-3d3b7bbe668c)
 
 
 ### Key Insights
