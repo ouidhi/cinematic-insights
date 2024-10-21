@@ -89,16 +89,29 @@ Conducted an exploratory data analysis on a dataset of global movie production c
 ### Which country has the most film production companies?
 From the analysis, the United States leads with the highest number of film production companies, followed by India and China. On the opposite end, countries like Greece, Indonesia, and Ukraine have the fewest production companies.
 
+![company_country](https://github.com/user-attachments/assets/edac8b3f-5df4-437d-bf9f-4581adc8b1f0)
+
+
 ### What is the trend of company establishment over the years?
 The trend of company establishment has fluctuated significantly. There was a steady increase from the 1800s to 1920, followed by a decline between 1920 and 1960. Another sharp rise occurred from 1960 until 2000, peaking in 2000 with the highest number of companies established, after which there has been a gradual decline.
+
+![trend](https://github.com/user-attachments/assets/7745c340-a4cd-46e2-994c-27e145e744e2)
+
 
 ### Where are most film companies headquartered?
 Interestingly, despite the United States having the most film companies, Mumbai, India, holds the title for the city with the most company headquarters. This concentration of headquarters in Mumbai contrasts with the broader distribution of company headquarters across various cities in the U.S., such as Los Angeles and New York. Other significant locations include London (UK) and Shanghai (China), highlighting a regional concentration of production companies in these key cities.
 
+![headquarters](https://github.com/user-attachments/assets/9a6ca780-4437-4d4b-a7df-78cbd3cd7af0)
+
 ### What is the average lifespan of these companies?
 The average lifespan of film production companies is approximately 49.75 years. The oldest company, Edison’s Black Maria (131 years old), originated in the United States, followed closely by Gaumont Film Company from France (129 years old). The United States and France dominate the top five oldest companies.
 
+![oldest](https://github.com/user-attachments/assets/60bb4084-5a27-472b-9629-8432c440aeae)
+
 In contrast, the newest companies, such as Apple Studios, Sight & Sound Films, and Called Higher Studios, are all based in the United States, with many of these companies being around 5 years old. 
+
+![newest](https://github.com/user-attachments/assets/db042dd8-2b24-4ed6-bb95-31442cf19a10)
+
 
 ### Key Insights
 - The United States has been consistently dominant in the film production industry, both historically and currently.
