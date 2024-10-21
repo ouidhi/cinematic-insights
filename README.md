@@ -119,6 +119,12 @@ In contrast, the newest companies, such as Apple Studios, Sight & Sound Films, a
 - London and Shanghai are key cities for film production company headquarters in the UK and China, respectively.
 
 Overall, the analysis underscores the prominence of the United States in the global film industry, with India and China making significant contributions as well.
+#
+### Data Sources
+
+Wikipedia page: https://en.wikipedia.org/wiki/List_of_film_production_companies
+
+
 
 
    
