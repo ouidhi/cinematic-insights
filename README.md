@@ -131,10 +131,11 @@ Overall, the analysis underscores the prominence of the United States in the glo
 
 Wikipedia page: https://en.wikipedia.org/wiki/List_of_film_production_companies
 
+---
 
+## 📬 Contact
 
+Created by **Vidhi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar777/) | 📧 [Email](vidhi30th@gmail.com) 
 
-   
-
-
-
+---
