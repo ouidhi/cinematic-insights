@@ -1,31 +1,25 @@
-## Exploratory Data Analysis of Movie Production Companies 
+## 🎬 Cinematic Insights: Where the Movies Are Born
 
 ### Objective
 
-Conducted an exploratory data analysis on a dataset of global movie production companies to uncover trends in company establishment, geographic distribution, and market concentration. Utilized Python libraries such as Pandas and Seaborn to derive insights and visualize data.
+In this project, I scraped, cleaned, and explored a dataset of 500+ global film production companies. Through exploratory data analysis (EDA) and visual storytelling, I uncover insights about:
+
+- How the film industry has expanded globally
+- The cities and countries that dominate production
+- The lifespan of companies in the movie business
+- Emerging vs. legacy production hubs
+
 #
-### Table of Contents:
+### 🔍 Key Questions Explored
 
-1. Questions to answer
-2. Key Skills and Tools Used
-3. Scraping data from wikipedia
-4. Data preparation and cleaning 
-5. Understanding the data
-6. Data Explorations
-7. Results and Conclusion
-8. Data Sources
-#
-### Questions to answer
+- Which countries have the highest concentration of production companies?
+- How has the trend of company establishment changed over the last century?
+- Where are the modern filmmaking powerhouses located?
+- What is the average lifespan of a film production company?
+- Who are the legacy titans still standing strong?
 
-- Which country has the most film companies? <br>
-
-- What is the trend of company establishment over the years? <br>
-
-- Where are most film companies headquartered? <br>
-
-- What is the average lifespan of these companies? <br>
 # 
-### Key Skills and Tools Used
+### ⚒️ Tools & Skills Used
    
    **Programming Languages:** Python <br>
    
@@ -65,7 +59,9 @@ Conducted an exploratory data analysis on a dataset of global movie production c
    **Country**: The country where the company is based. <br>
    
    **Headquarters**: The specific city or region where the company is headquartered. <br>
+   
    **Est.**: The year the company was founded. The data is collected for companies established between 1893 and 2019. <br>
+   
    **Notes**: Any additional relevant information about the company (e.g., a focus on specific genres like Christian films).
 #
 ### Data preparation and Exploration
@@ -122,6 +118,13 @@ In contrast, the newest companies, such as Apple Studios, Sight & Sound Films, a
 
 
 ### Key Insights
+
+- The United States has the highest number of production companies, but Mumbai, India surprisingly leads in terms of company HQs.
+- The boom period for film company establishment peaked in the early 2000s, with a sharp rise from 1960 onward.
+📌 The average lifespan of a film production company is around 50 years, with some crossing the century mark, like Edison Studios (US) and Gaumont (France).
+📌 London, Shanghai, and New York also emerge as major industry centers, highlighting the global decentralization of film hubs.
+📌 A number of newer, niche studios are rising — especially in the U.S., focusing on specific genres and streaming-first content.
+
 - The United States has been consistently dominant in the film production industry, both historically and currently.
 - India and China follow as major players, with India’s film headquarters largely centralized in Mumbai.
 - London and Shanghai are key cities for film production company headquarters in the UK and China, respectively.
