@@ -1,6 +1,6 @@
 ## 🎬 Cinematic Insights: Where the Movies Are Born
 
-### Objective
+### ⭐️ Objective
 
 In this project, I scraped, cleaned, and explored a dataset of 500+ global film production companies. Through exploratory data analysis (EDA) and visual storytelling, I uncover insights about:
 
