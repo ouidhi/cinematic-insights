@@ -121,13 +121,9 @@ In contrast, the newest companies, such as Apple Studios, Sight & Sound Films, a
 
 - The United States has the highest number of production companies, but Mumbai, India surprisingly leads in terms of company HQs.
 - The boom period for film company establishment peaked in the early 2000s, with a sharp rise from 1960 onward.
-📌 The average lifespan of a film production company is around 50 years, with some crossing the century mark, like Edison Studios (US) and Gaumont (France).
-📌 London, Shanghai, and New York also emerge as major industry centers, highlighting the global decentralization of film hubs.
-📌 A number of newer, niche studios are rising — especially in the U.S., focusing on specific genres and streaming-first content.
-
-- The United States has been consistently dominant in the film production industry, both historically and currently.
-- India and China follow as major players, with India’s film headquarters largely centralized in Mumbai.
-- London and Shanghai are key cities for film production company headquarters in the UK and China, respectively.
+- The average lifespan of a film production company is around 50 years, with some crossing the century mark, like Edison Studios (US) and Gaumont (France).
+- London, Shanghai, and New York also emerge as major industry centers, highlighting the global decentralization of film hubs.
+- A number of newer, niche studios are rising — especially in the U.S., focusing on specific genres and streaming-first content.
 
 Overall, the analysis underscores the prominence of the United States in the global film industry, with India and China making significant contributions as well.
 #
