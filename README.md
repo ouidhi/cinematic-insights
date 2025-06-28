@@ -133,6 +133,6 @@ Wikipedia page: https://en.wikipedia.org/wiki/List_of_film_production_companies
 
 ## 📬 Contact
  
-🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar777/) | 📧 [Email](vidhi30th@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | 📧 [Email](vidhi30th@gmail.com) 
 
 
