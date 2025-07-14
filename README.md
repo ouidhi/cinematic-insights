@@ -1,6 +1,6 @@
-## 🎬 Cinematic Insights: Where the Movies Are Born
+## Cinematic Insights: Where the Movies Are Born
 
-### ⭐️ Objective
+### Objective
 
 In this project, I scraped, cleaned, and explored a dataset of 500+ global film production companies. Through exploratory data analysis (EDA) and visual storytelling, I uncover insights about:
 
@@ -10,7 +10,7 @@ In this project, I scraped, cleaned, and explored a dataset of 500+ global film 
 - Emerging vs. legacy production hubs
 
 #
-### 🔍 Key Questions Explored
+### Key Questions Explored
 
 - Which countries have the highest concentration of production companies?
 - How has the trend of company establishment changed over the last century?
@@ -19,7 +19,7 @@ In this project, I scraped, cleaned, and explored a dataset of 500+ global film 
 - Who are the legacy titans still standing strong?
 
 # 
-### ⚒️ Tools & Skills Used
+### Tools & Skills Used
    
    **Programming Languages:** Python <br>
    
